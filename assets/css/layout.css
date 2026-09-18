@@ -772,7 +772,7 @@ body{
     display: block;
     color: var(--black3);
     text-transform: uppercase;
-    font-size: var(--fz-headingheading);
+    font-size: var(--fz-heading);
   }  
 }
 @media (max-width: 767px){
